@@ -1,0 +1,36 @@
+nav{
+  height: 60px;
+}
+
+nav a{
+  color:rgba(255,255,255,0.5);
+}
+
+nav a:hover{
+  color:rgba(255,255,255,0.7);
+}
+
+.nav-main{
+  font-size: 42px; 
+}
+
+.dropdown-item{
+  font-size: 21px;     
+}
+
+.nav-child{
+  font-size: 21px;    
+}
+
+/* posts */
+.post_page a{
+  color:#3292A6;
+  text-decoration: none;
+}
+
+
+.post_page:hover{
+  background-color:#ECEEEF;
+}
+
+
